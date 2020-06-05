@@ -1,0 +1,19 @@
+.elementor-273 .elementor-element.elementor-element-6db69262{padding:0px 0px 0px 0px;}.elementor-273 .elementor-element.elementor-element-a258700{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-273 .elementor-element.elementor-element-a84b199 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-273 .elementor-element.elementor-element-5f6c74e .elementor-toggle .elementor-tab-title{border-width:0px;border-color:rgba(0, 0, 0, 0);}.elementor-273 .elementor-element.elementor-element-5f6c74e .elementor-toggle .elementor-tab-content{border-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding:0px 0px 0px 0px;}.elementor-273 .elementor-element.elementor-element-5f6c74e .elementor-tab-title a, .elementor-273 .elementor-element.elementor-element-5f6c74e .elementor-toggle-icon{color:#FFFFFF;}.elementor-273 .elementor-element.elementor-element-5f6c74e > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}/* Start custom CSS for toggle, class: .elementor-element-5f6c74e */#anatomy-painting h2 {
+    text-align: center;
+}
+#anatomy-painting .elementor-tab-title {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#anatomy-painting .elementor-tab-title {
+    height: 56vw;
+}
+#anatomy-painting .elementor-toggle .elementor-toggle-item:nth-of-type(1) .elementor-tab-title {
+    background-image: url('/wp-content/uploads/2020/03/1-HAIR-_-fit-full-to-screen-width.png');
+}
+#anatomy-painting .elementor-toggle .elementor-toggle-item:nth-of-type(2) .elementor-tab-title {
+    background-image: url('/wp-content/uploads/2020/03/2-SKIN-_-fit-full-to-screen-width.png');
+}
+#anatomy-painting .elementor-toggle .elementor-toggle-item:nth-of-type(3) .elementor-tab-title {
+    background-image: url('/wp-content/uploads/2020/03/3-NECK-_-fit-full-to-screen-width.png');
+}/* End custom CSS */
